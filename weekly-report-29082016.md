@@ -2,5 +2,5 @@
 
 - **huydx**: Parsing Technique
 - **huytd**: Neural Network
-- **unrealhoang**: Implement Multiplexing model
+- **unrealhoang**: Cache Locality and how Btree helps with that
 - **anhduy**: Vault (cont)
